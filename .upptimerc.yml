@@ -12,6 +12,14 @@ sites:
     url: https://jira.coastguard.com.au
   - name: SafeTrx
     url: https://safetrx.coastguard.com.au
+  - name: Email (Zimbra)
+    url: https://myinbox.coastguard.com.au
+  - name: Email (Google)
+    url: https://mail.google.com
+  - name: Database
+    url: https://database.coastguard.com.au
+assignees: # Users to assign downtime issues (optional)
+  - jeremyw24
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
