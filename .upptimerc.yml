@@ -8,6 +8,8 @@ sites:
     url: https://coastguard.com.au
   - name: Members Portal
     url: https://portal.coastguard.com.au
+  - name: Helpdesk
+    url: https://jira.coastguard.com.au
   - name: SafeTrx
     url: https://safetrx.coastguard.com.au
 
