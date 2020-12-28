@@ -1,5 +1,5 @@
 # Change these first
-owner: jeremyw24 # Your GitHub username
+owner: avcga # Your GitHub username
 repo: uptime # Your Github repository name
 
 # Add your sites here
@@ -8,6 +8,8 @@ sites:
     url: https://coastguard.com.au
   - name: Members Portal
     url: https://portal.coastguard.com.au
+  - name: SafeTrx
+    url: https://safetrx.coastguard.com.au
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
