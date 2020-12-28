@@ -8,12 +8,6 @@ sites:
     url: https://coastguard.com.au
   - name: Members Portal
     url: https://portal.coastguard.com.au
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
