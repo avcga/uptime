@@ -112,9 +112,9 @@
     "url": "https://database.coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/database.coastguard.com.au",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 1033,
     "timeMonth": 928,
     "timeYear": 928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-14": 0
+    }
   }
 ]
