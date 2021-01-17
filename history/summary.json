@@ -76,9 +76,9 @@
     "url": "https://myinbox.coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/myinbox.coastguard.com.au",
     "slug": "email-zimbra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1177,
     "timeMonth": 1150,
     "timeYear": 1150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-17": 0
+    }
   },
   {
     "name": "Email (Google)",
