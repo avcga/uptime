@@ -12,8 +12,6 @@ sites:
     url: https://jira.coastguard.com.au
   - name: SafeTrx
     url: https://safetrx.coastguard.com.au
-  - name: Email (Zimbra)
-    url: https://myinbox.coastguard.com.au
   - name: Email (Google)
     url: https://mail.google.com
   - name: Database
