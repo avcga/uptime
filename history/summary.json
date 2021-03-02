@@ -4,9 +4,9 @@
     "url": "https://coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/coastguard.com.au",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1357,
     "timeMonth": 1378,
     "timeYear": 1444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Members Portal",
