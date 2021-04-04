@@ -14,8 +14,12 @@ sites:
     url: https://safetrx.coastguard.com.au
   - name: Email (Google)
     url: https://mail.google.com
-  - name: Database
+  - name: Database (New)
     url: https://database.coastguard.com.au
+  - name: Database (Old QSC)
+    url: https://database-qsc.coastguard.com.au
+  - name: TripWatch
+    url: https://tripwatch.coastguard.com.au
 assignees: # Users to assign downtime issues (optional)
   - jeremyw24
 
