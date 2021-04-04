@@ -32,7 +32,7 @@ status-website:
   logoUrl: https://coastguard.com.au/wp-content/uploads/2018/05/AVGC-Logo_100-2.png
   name: AVCGA Service Status
   introTitle: "**AVCGA** Service Status"
-  introMessage: This site provides real-time service status information regarding AVCGA IT Services available to members, planned and unplanned service outages will be listed below. You can view the current status and updates of any open incidents or planned outages (typically updates and patching). If you are having issues with a service and there is no outage alert you can [**Raise a Helpdesk Ticket**](https://helpdesk.coastguard.com.au)
+  introMessage: This site provides real-time service status information regarding AVCGA IT Services available to members, planned and unplanned service outages will be listed below. You can view the current status and updates of any open incidents or planned outages (typically updates and patching). If you are having issues with a service and there is no outage alert you can [**Raise a Helpdesk Ticket**](https://helpdesk.coastguard.com.au) if you are having issues with Google Services, you can view the full [**Google Service Status Here**](https://www.google.com/appsstatus)
   navbar:
     - title: Status
       href: /
