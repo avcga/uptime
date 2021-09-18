@@ -1,7 +1,7 @@
 url: https://coastguard.com.au
-status: up
-code: 200
-responseTime: 1223
-lastUpdated: 2021-09-17T23:12:28.593Z
+status: down
+code: 500
+responseTime: 10014
+lastUpdated: 2021-09-18T15:23:30.179Z
 startTime: Mon Dec 28 2020 09:04:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
