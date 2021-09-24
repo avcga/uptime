@@ -64,7 +64,7 @@
     "url": "https://safetrx.coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/safetrx.coastguard.com.au",
     "slug": "safe-trx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -111,7 +111,7 @@
     "time": 895,
     "timeDay": 852,
     "timeWeek": 850,
-    "timeMonth": 869,
+    "timeMonth": 879,
     "timeYear": 895,
     "dailyMinutesDown": {}
   },
