@@ -138,17 +138,17 @@
     "url": "https://tripwatch.coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/tripwatch.coastguard.com.au",
     "slug": "trip-watch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1050,
-    "timeWeek": 945,
-    "timeMonth": 930,
-    "timeYear": 927,
+    "time": 925,
+    "timeDay": 821,
+    "timeWeek": 901,
+    "timeMonth": 920,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   }
 ]
