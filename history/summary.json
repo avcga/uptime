@@ -24,17 +24,17 @@
     "url": "https://portal.coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/portal.coastguard.com.au",
     "slug": "members-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1336,
-    "timeDay": 10897,
-    "timeWeek": 4312,
-    "timeMonth": 1921,
-    "timeYear": 1328,
+    "time": 1378,
+    "timeDay": 13413,
+    "timeWeek": 5977,
+    "timeMonth": 2481,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2021-03-03": 173
     }
