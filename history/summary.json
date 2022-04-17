@@ -4,9 +4,9 @@
     "url": "https://coastguard.com.au",
     "icon": "https://favicons.githubusercontent.com/coastguard.com.au",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1197,
     "timeYear": 1383,
     "dailyMinutesDown": {
+      "2022-04-17": 0,
       "2022-03-22": 26,
       "2022-02-26": 22,
       "2022-02-16": 41
