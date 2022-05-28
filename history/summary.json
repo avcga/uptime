@@ -85,9 +85,9 @@
     "slug": "email-google",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.94%",
     "time": 344,
     "timeDay": 408,
@@ -95,7 +95,7 @@
     "timeMonth": 480,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-05-27": 229,
+      "2022-05-27": 219,
       "2022-05-26": 58,
       "2022-04-13": 21
     }
