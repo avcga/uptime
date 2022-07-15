@@ -10,8 +10,6 @@ sites:
     url: https://portal.coastguard.com.au
   - name: SafeTrx
     url: https://safetrx.coastguard.com.au
-  - name: Email (Google)
-    url: https://mail.google.com
   - name: Database (New)
     url: https://database.coastguard.com.au
   - name: Database (Old QSC)
