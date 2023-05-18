@@ -1,7 +1,7 @@
 url: https://database.coastguard.com.au
-status: down
-code: 503
-responseTime: 542
-lastUpdated: 2023-05-18T02:34:27.194Z
+status: up
+code: 200
+responseTime: 1004
+lastUpdated: 2023-05-18T02:46:08.702Z
 startTime: Sun Apr 04 2021 07:27:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
