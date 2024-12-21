@@ -4,18 +4,20 @@
     "url": "https://coastguard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/coastguard.com.au.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2509,
+    "time": 2510,
     "timeDay": 2112,
     "timeWeek": 2829,
     "timeMonth": 2986,
     "timeYear": 2522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   },
   {
     "name": "Members Portal",
@@ -27,7 +29,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.14%",
+    "uptimeYear": "68.17%",
     "time": 575,
     "timeDay": 377,
     "timeWeek": 333,
@@ -210,7 +212,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/database-qsc.coastguard.com.au.ico",
     "slug": "database-old-qsc",
     "status": "up",
-    "uptime": "77.52%",
+    "uptime": "77.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
