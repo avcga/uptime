@@ -1,7 +1,7 @@
 url: https://tripwatch.coastguard.com.au
-status: up
-code: 200
-responseTime: 2062
-lastUpdated: 2025-02-09T23:13:35.178Z
+status: down
+code: 500
+responseTime: 1522
+lastUpdated: 2025-02-10T05:24:21.363Z
 startTime: 2021-04-04T07:27:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
