@@ -4,18 +4,19 @@
     "url": "https://coastguard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/coastguard.com.au.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "88.37%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "88.36%",
     "uptimeMonth": "91.72%",
-    "uptimeYear": "99.30%",
-    "time": 2806,
+    "uptimeYear": "99.31%",
+    "time": 2807,
     "timeDay": 2952,
     "timeWeek": 3019,
     "timeMonth": 3156,
     "timeYear": 2877,
     "dailyMinutesDown": {
+      "2025-05-27": 0,
       "2025-05-26": 36,
       "2025-05-25": 121,
       "2025-05-24": 103,
@@ -45,8 +46,7 @@
       "2025-04-30": 101,
       "2025-04-29": 182,
       "2025-04-28": 36,
-      "2025-04-27": 58,
-      "2025-04-26": 28
+      "2025-04-27": 58
     }
   },
   {
