@@ -1,7 +1,7 @@
 url: https://database-qsc.coastguard.com.au
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2025-06-08T23:15:18.437Z
+status: down
+code: 500
+responseTime: 3514
+lastUpdated: 2025-06-09T13:43:17.418Z
 startTime: 2021-04-04T07:27:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
