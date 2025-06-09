@@ -4,13 +4,13 @@
     "url": "https://coastguard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/coastguard.com.au.ico",
     "slug": "public-website",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "92.85%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "92.84%",
     "uptimeWeek": "91.66%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "99.25%",
-    "time": 2820,
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "99.27%",
+    "time": 2821,
     "timeDay": 2451,
     "timeWeek": 2834,
     "timeMonth": 3262,
@@ -45,7 +45,7 @@
       "2025-05-13": 127,
       "2025-05-12": 39,
       "2025-05-11": 61,
-      "2025-05-10": 317
+      "2025-05-10": 233
     }
   },
   {
@@ -123,17 +123,17 @@
     "slug": "database-old-qsc",
     "status": "down",
     "uptime": "80.03%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.96%",
     "time": 849,
     "timeDay": 2198,
     "timeWeek": 1176,
     "timeMonth": 911,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-06-09": 116
+      "2025-06-09": 221
     }
   },
   {
