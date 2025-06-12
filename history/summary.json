@@ -6,17 +6,17 @@
     "slug": "public-website",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "92.56%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "89.04%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "99.28%",
     "time": 2831,
     "timeDay": 2539,
     "timeWeek": 2920,
     "timeMonth": 2995,
     "timeYear": 2901,
     "dailyMinutesDown": {
-      "2025-06-11": 168,
+      "2025-06-11": 158,
       "2025-06-10": 45,
       "2025-06-09": 120,
       "2025-06-08": 85,
@@ -45,7 +45,7 @@
       "2025-05-15": 61,
       "2025-05-14": 44,
       "2025-05-13": 127,
-      "2025-05-12": 16
+      "2025-05-12": 39
     }
   },
   {
@@ -124,16 +124,17 @@
     "status": "down",
     "uptime": "79.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.46%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "69.37%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "99.41%",
     "time": 849,
     "timeDay": 784,
     "timeWeek": 1164,
     "timeMonth": 912,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-06-11": 1435,
+      "2025-06-12": 105,
+      "2025-06-11": 1440,
       "2025-06-10": 927,
       "2025-06-09": 617
     }
