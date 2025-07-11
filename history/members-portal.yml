@@ -1,7 +1,7 @@
 url: https://portal.coastguard.com.au
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2025-07-10T23:16:43.396Z
+status: down
+code: 403
+responseTime: 120
+lastUpdated: 2025-07-11T16:45:49.798Z
 startTime: 2020-12-28T01:20:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
