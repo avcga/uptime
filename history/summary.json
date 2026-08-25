@@ -221,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/database-qsc.coastguard.com.au.ico",
     "slug": "database-old-qsc",
     "status": "down",
-    "uptime": "62.11%",
+    "uptime": "62.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -232,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-25": 39,
+      "2026-08-25": 79,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
