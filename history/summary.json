@@ -11,10 +11,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.49%",
     "time": 3659,
-    "timeDay": 7511,
-    "timeWeek": 5623,
-    "timeMonth": 5178,
-    "timeYear": 3792,
+    "timeDay": 3543,
+    "timeWeek": 5047,
+    "timeMonth": 5239,
+    "timeYear": 3791,
     "dailyMinutesDown": {
       "2026-02-14": 23,
       "2026-02-16": 19,
@@ -99,10 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.49%",
     "time": 390,
-    "timeDay": 505,
-    "timeWeek": 623,
-    "timeMonth": 693,
-    "timeYear": 416,
+    "timeDay": 528,
+    "timeWeek": 621,
+    "timeMonth": 703,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-11-18": 124,
       "2026-03-02": 78,
@@ -182,10 +182,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
-    "timeDay": 995,
-    "timeWeek": 946,
+    "timeDay": 819,
+    "timeWeek": 919,
     "timeMonth": 977,
-    "timeYear": 877,
+    "timeYear": 876,
     "dailyMinutesDown": {}
   },
   {
@@ -199,11 +199,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1231,
-    "timeDay": 1618,
-    "timeWeek": 1445,
-    "timeMonth": 1628,
-    "timeYear": 1316,
+    "time": 1232,
+    "timeDay": 1428,
+    "timeWeek": 1414,
+    "timeMonth": 1636,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2026-08-12": 94
     }
@@ -214,7 +214,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/database-qsc.coastguard.com.au.ico",
     "slug": "database-old-qsc",
     "status": "down",
-    "uptime": "59.88%",
+    "uptime": "59.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -225,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-07": 301,
+      "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -588,8 +589,7 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
-      "2025-11-07": 1440
+      "2025-11-08": 1440
     }
   },
   {
@@ -603,11 +603,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 2041,
-    "timeDay": 2425,
-    "timeWeek": 2221,
-    "timeMonth": 2582,
-    "timeYear": 2005,
+    "time": 2043,
+    "timeDay": 2712,
+    "timeWeek": 2273,
+    "timeMonth": 2616,
+    "timeYear": 2008,
     "dailyMinutesDown": {
       "2025-12-18": 87,
       "2025-12-21": 20,
