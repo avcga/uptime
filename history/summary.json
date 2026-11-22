@@ -10,10 +10,10 @@
     "uptimeWeek": "95.69%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.41%",
-    "time": 3729,
-    "timeDay": 2056,
-    "timeWeek": 2771,
-    "timeMonth": 4418,
+    "time": 3730,
+    "timeDay": 2905,
+    "timeWeek": 2546,
+    "timeMonth": 4439,
     "timeYear": 3797,
     "dailyMinutesDown": {
       "2026-02-16": 19,
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.51%",
     "time": 390,
-    "timeDay": 440,
-    "timeWeek": 352,
-    "timeMonth": 433,
+    "timeDay": 231,
+    "timeWeek": 344,
+    "timeMonth": 427,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2026-03-02": 78,
@@ -181,10 +181,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
-    "timeDay": 692,
-    "timeWeek": 843,
-    "timeMonth": 869,
-    "timeYear": 875,
+    "timeDay": 879,
+    "timeWeek": 849,
+    "timeMonth": 875,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   },
   {
@@ -199,10 +199,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1244,
-    "timeDay": 1278,
-    "timeWeek": 1345,
-    "timeMonth": 1378,
-    "timeYear": 1334,
+    "timeDay": 1372,
+    "timeWeek": 1361,
+    "timeMonth": 1383,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2026-08-12": 94
     }
@@ -213,7 +213,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/database-qsc.coastguard.com.au.ico",
     "slug": "database-old-qsc",
     "status": "down",
-    "uptime": "59.44%",
+    "uptime": "59.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -224,7 +224,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-21": 360,
+      "2026-11-22": 335,
+      "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
@@ -587,8 +588,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   },
   {
@@ -603,10 +603,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 2003,
-    "timeDay": 1964,
-    "timeWeek": 2086,
-    "timeMonth": 2163,
-    "timeYear": 2021,
+    "timeDay": 2206,
+    "timeWeek": 2164,
+    "timeMonth": 2176,
+    "timeYear": 2022,
     "dailyMinutesDown": {
       "2025-12-18": 87,
       "2025-12-21": 20,
